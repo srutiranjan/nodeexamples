@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "scripts": {
+    "test": "package"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "srutiranjan",
+  "license": "ISC"
+}
